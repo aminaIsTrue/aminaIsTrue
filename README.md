@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amina Ouj
-- 👀 I’m interested in learning Javascript and Python and their frameworks
+- 👀 I’m interested in learning Javascript, Python, Java and their frameworks
 - 🌱 I’m currently learning Javascript more in depth
 - 💞️ I’m looking to collaborate on projects JavaScript related 
 - 📫 How to reach me https://www.linkedin.com/in/amina-ouj-83ba3578/
